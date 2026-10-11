@@ -1,0 +1,4 @@
+# Simple IDS Project
+# Python 3 required
+# No external packages required
+# All libraries are included with Python
